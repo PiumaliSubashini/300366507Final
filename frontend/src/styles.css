@@ -103,3 +103,6 @@ body {
     width: fit-content;
   }
   
+  .desc input {
+    float: right;
+  }
